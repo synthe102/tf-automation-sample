@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/synthe102/tf-automation-sample/compare/v1.1.1...v1.2.0) (2024-05-28)
+
+
+### Features
+
+* **module-d:** initial commit ([#7](https://github.com/synthe102/tf-automation-sample/issues/7)) ([4493995](https://github.com/synthe102/tf-automation-sample/commit/449399582cbc8d7aa01f849225be1e0342ad061d))
+
 ## [1.1.1](https://github.com/synthe102/tf-automation-sample/compare/v1.1.0...v1.1.1) (2024-05-28)
 
 
