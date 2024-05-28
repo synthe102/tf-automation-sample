@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/synthe102/tf-automation-sample/compare/v1.1.0...v1.1.1) (2024-05-28)
+
+
+### Bug Fixes
+
+* **module-a:** something break ([#5](https://github.com/synthe102/tf-automation-sample/issues/5)) ([25d1b5d](https://github.com/synthe102/tf-automation-sample/commit/25d1b5d287552fdb033e050ef48992be218db62e))
+
 ## [1.1.0](https://github.com/synthe102/tf-automation-sample/compare/v1.0.0...v1.1.0) (2024-05-28)
 
 
