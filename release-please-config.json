@@ -1,8 +1,17 @@
 {
   "separate-pull-requests": true,
   "packages": {
-    "module-a": {},
-    "module-b": {},
-    "module-c": {}
+    "module-a": {
+      "component": "module-a",
+    },
+    "module-b": {
+      "component": "module-b",
+    },
+    "module-c": {
+      "component": "module-c",
+    },
+    "module-d": {
+      "component": "module-d",
+    }
   }
 }
