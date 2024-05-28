@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/synthe102/tf-automation-sample/compare/v1.2.0...v1.2.1) (2024-05-28)
+
+
+### Bug Fixes
+
+* add components ([038bdf4](https://github.com/synthe102/tf-automation-sample/commit/038bdf465039076105d51927f9bd4e29fb132194))
+
 ## [1.2.0](https://github.com/synthe102/tf-automation-sample/compare/v1.1.1...v1.2.0) (2024-05-28)
 
 
