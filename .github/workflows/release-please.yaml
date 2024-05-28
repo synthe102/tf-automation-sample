@@ -21,8 +21,6 @@ jobs:
           token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
-          release-type: terraform-module
           config-file: release-please-config.json
           # optional. customize path to .release-please-manifest.json
           manifest-file: .release-please-manifest.json
-          include-component-in-tag: true

@@ -1,17 +1,18 @@
 {
   "separate-pull-requests": true,
+  "release-type": "terraform-module",
   "packages": {
     "module-a": {
-      "component": "module-a",
+      "package-name": "module-a"
     },
     "module-b": {
-      "component": "module-b",
+      "package-name": "module-b"
     },
     "module-c": {
-      "component": "module-c",
+      "package-name": "module-c"
     },
     "module-d": {
-      "component": "module-d",
+      "package-name": "module-d"
     }
   }
 }
