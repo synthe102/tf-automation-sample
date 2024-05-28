@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/synthe102/tf-automation-sample/compare/v1.2.1...v1.2.2) (2024-05-28)
+
+
+### Bug Fixes
+
+* manifest ([0e31e12](https://github.com/synthe102/tf-automation-sample/commit/0e31e127718e04dff604ccd02ec4299b56dced7a))
+
 ## [1.2.1](https://github.com/synthe102/tf-automation-sample/compare/v1.2.0...v1.2.1) (2024-05-28)
 
 
