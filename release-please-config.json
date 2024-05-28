@@ -1,6 +1,7 @@
 {
   "packages": {
     "module-a": {},
-    "module-b": {}
+    "module-b": {},
+    "module-c": {}
   }
 }
