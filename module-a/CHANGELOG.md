@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/synthe102/tf-automation-sample/compare/module-a-v1.3.0...module-a-v2.0.0) (2024-05-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* **module-a:** breaking change
+
+### Bug Fixes
+
+* **module-a:** breaking change ([960f5b4](https://github.com/synthe102/tf-automation-sample/commit/960f5b42504c8aff1a1855e93d899b72f7731f62))
+
 ## [1.3.0](https://github.com/synthe102/tf-automation-sample/compare/module-a-v1.2.1...module-a-v1.3.0) (2024-05-28)
 
 
